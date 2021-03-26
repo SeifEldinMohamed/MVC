@@ -1,4 +1,4 @@
-package com.seif.mvcproject
+package com.seif.MVC
 
 import org.junit.Test
 

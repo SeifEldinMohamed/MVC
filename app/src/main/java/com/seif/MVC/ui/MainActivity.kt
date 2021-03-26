@@ -1,9 +1,9 @@
-package com.seif.mvcproject.ui
+package com.seif.MVC.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.seif.mvcproject.Pojo.MoviesModel
-import com.seif.mvcproject.R
+import com.seif.MVC.Pojo.MoviesModel
+import com.seif.MVC.R
 import kotlinx.android.synthetic.main.activity_main.*
 import kotlin.random.Random
 
